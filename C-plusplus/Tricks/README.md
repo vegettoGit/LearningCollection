@@ -1,3 +1,6 @@
+# C++ Puzzlers - Yuri Minaev - C++ on Sea 2022
+https://www.youtube.com/watch?v=zu1bk340jgo&list=LL6MKUgGZ9Q8c2Ff7GnoRoqA
+
 # Cute C++ Tricks (and what you can learn from them): Part 2 of N - Daisy Hollman - CppNorth 2022
 https://www.youtube.com/watch?v=EwEppzQe5Oc&list=LL6MKUgGZ9Q8c2Ff7GnoRoqA
 
