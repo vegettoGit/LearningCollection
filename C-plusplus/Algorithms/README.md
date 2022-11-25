@@ -1,3 +1,6 @@
+# Beginners Guide to C++'s Best Kept Secret -- std::algorithm - Mike Shah - C++ on Sea 2022
+https://www.youtube.com/watch?v=muOR1d8ULQo&list=LL6MKUgGZ9Q8c2Ff7GnoRoqA
+
 # C++Now 2019: Conor Hoekstra “Algorithm Intuition”
 https://www.youtube.com/watch?v=48gV1SNm3WA&list=LL6MKUgGZ9Q8c2Ff7GnoRoqA
 
