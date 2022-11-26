@@ -10,3 +10,6 @@ https://www.youtube.com/watch?v=TSZzvo4htTQ&list=LL6MKUgGZ9Q8c2Ff7GnoRoqA
 # The Twin Algorithms - Conor Hoekstra - CppNorth 2022
 https://www.youtube.com/watch?v=w37XnvIf6qE&list=LL6MKUgGZ9Q8c2Ff7GnoRoqA
 
+# CppCon 2018: Jonathan Boccara “105 STL Algorithms in Less Than an Hour”
+https://www.youtube.com/watch?v=2olsGf6JIkU&list=LL6MKUgGZ9Q8c2Ff7GnoRoqA
+
