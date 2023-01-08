@@ -1,5 +1,5 @@
 # [Math for Game Programmers: The Math of Deep Learning - Alex Champandard - GDC 2017](https://www.youtube.com/watch?v=vjAE7fIoBrs&list=LL6MKUgGZ9Q8c2Ff7GnoRoqA)
-## Topics include Datasets, Models, Tensors, Optimization (Gradient Descent), Applications (Classification, Regression, Generation), etc.
+## Topics include: Datasets, Models, Tensors, Optimization (Gradient Descent), Applications (Classification, Regression, Generation), etc.
 ## Use cases: Natural Language Processing, Image Recognition, Visual Recognition, etc.
 
 # [Math for Game Programmers: Predictable Projectiles - Chris Stark - GDC 2017](https://www.youtube.com/watch?v=6OkhjWUIUf0&list=LL6MKUgGZ9Q8c2Ff7GnoRoqA)
