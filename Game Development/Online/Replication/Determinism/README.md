@@ -9,5 +9,8 @@
 
 # [It IS Rocket Science! The Physics of Rocket League Detailed - GDC 2018](https://www.youtube.com/watch?v=ueEmiDM94IE&list=LL6MKUgGZ9Q8c2Ff7GnoRoqA)
 
+# [Deterministic vs. Replicated AI: Building the Battlefield of For Honor - Frederic Doll and Xavier Guilbeault - GDC 2017](https://www.youtube.com/watch?v=4Z0aUEBp_Os&list=LL6MKUgGZ9Q8c2Ff7GnoRoqA)
+## Topics covered include: Katana's input receiving Tool for local/remote Players and also for AI Actors (via Behavior Trees), Peer to Peer Network model, Deterministic simulation with timestamp inputs and rewinding, Actor History Buffers, Editor Rewind & Replay, Deterministic AI (time slicing, simplified physics, NavFlows vs NavMesh, Flocking Group Behavior) and Replicated AI.  
+
 # ['Overwatch' Gameplay Architecture and Netcode - GDC 2017](https://www.gdcvault.com/play/1024001/-Overwatch-Gameplay-Architecture-and)
 
